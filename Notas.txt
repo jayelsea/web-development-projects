@@ -1,0 +1,4 @@
+repositories new repositories=llamado portafolio web siempre en publico con add readmemd.
+add file y añadir los archivos del portafolio, tiene que llamarse index.hml y se hace un comit 
+usar bien los paths relativos 
+settings-pages-branch main root 
