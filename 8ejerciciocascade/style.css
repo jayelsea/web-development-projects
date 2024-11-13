@@ -1,12 +1,25 @@
 /* Don't change the existing CSS. */
-
+html{
+  color:aliceblue
+}
+#outer-box{
+  background-color: rgb(151, 3, 209);
+  margin: 10px;
+}
 .box {
   background-color: blue;
   padding: 10px;
 }
 
-p {
+p .box {
   color: yellow;
   margin: 0;
   padding: 0;
+}
+.white-text{
+  background-color:red;
+  margin: 0;
+  padding: 
+  20px;
+
 }
